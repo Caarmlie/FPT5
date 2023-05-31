@@ -1,0 +1,6 @@
+entity\Category.class
+context\DBContext.class
+entity\Product.class
+Control\SearchControl.class
+DAO\UserDAO.class
+Control\UserControl.class
